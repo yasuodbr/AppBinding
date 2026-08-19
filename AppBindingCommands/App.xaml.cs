@@ -8,6 +8,7 @@ namespace AppBindingCommands
         {
             InitializeComponent();
         }
+        //comentario 
 
         protected override Window CreateWindow(IActivationState? activationState)
         {
